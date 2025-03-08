@@ -4,6 +4,11 @@ TestBase
 ![TestBase](https://github.com/G-GoodLike/Certificate/blob/main/Certificate/AborinTestBaseDiploma.jpg)
 ![TestBase](https://github.com/G-GoodLike/Certificate/blob/main/Certificate/AborinTestBaseDiploma2.jpg)
 
+Stepik
+
+![Stepik](https://github.com/G-GoodLike/Certificate/blob/main/Certificate/Python.Selenium.jpg)
+![Stepik](https://github.com/G-GoodLike/Certificate/blob/main/Certificate/Python.API.jpg)
+
 VK testers
 
 ![VK testers](https://github.com/G-GoodLike/Certificate/blob/main/Certificate/vk%20testers.jpg?raw=true)
